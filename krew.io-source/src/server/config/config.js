@@ -31,7 +31,7 @@ const config = {
 
     additionalBadWords: [`idiot`, `2chOld`, `Yuquan`, `devclied`, `LapaMauve`],
 
-    admins: [`DamienVesper`, `Zeropoint`, `BR88C`, `Sjmun`, `Fiftyyyyy`],
+    admins: [`Zeropoint`, `BR88C`, `Sjmun`, `Fiftyyyyy`],
     mods: [`TheChoco`, `Tommy_Finle`],
     helpers: [`Sky920`],
     designers: [`bread`],
